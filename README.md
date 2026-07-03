@@ -70,7 +70,7 @@ Results-driven **Full Stack Software Engineer** with expertise in the **MERN sta
   </tr>
   <tr>
     <td width="50%">
-      <h4>Full Stack E-commerce Shops</h4>
+      <h4> 🛍️ Full Stack E-commerce Shops</h4>
       Full-stack e-commerce application featuring secure JWT authentication, admin dashboard, product management, Cloudinary integration, and a responsive React + Node.js architecture.<br/>
       <a href="https://github.com/mehadeehassan/Ecommerce">🔗 Repo</a>
     </td>
