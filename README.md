@@ -70,9 +70,9 @@ Results-driven **Full Stack Software Engineer** with expertise in the **MERN sta
   </tr>
   <tr>
     <td width="50%">
-      <h4>🔐 Login Form</h4>
-      A modern, responsive login form built with Tailwind CSS.<br/>
-      <a href="https://github.com/mehadeehassan/Login_form">🔗 Repo</a>
+      <h4>Full Stack E-commerce Shops</h4>
+      Full-stack e-commerce application featuring secure JWT authentication, admin dashboard, product management, Cloudinary integration, and a responsive React + Node.js architecture.<br/>
+      <a href="https://github.com/mehadeehassan/Ecommerce">🔗 Repo</a>
     </td>
     <td width="50%">
       <h4>⚡ CodingMind</h4>
@@ -107,20 +107,6 @@ Results-driven **Full Stack Software Engineer** with expertise in the **MERN sta
 - **AI Driven Full Stack Web Engineer** — Programming Hero (B-14)
 - **Modern Web Development** — Self-taught (JavaScript, React, Next.js ecosystem)
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=mehadeehassan&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehadeehassan" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mehadeehassan&layout=compact&theme=default" alt="Top Languages" height="165"/>
-</p>
-
----
 
 ### 📫 Connect with Me
 
