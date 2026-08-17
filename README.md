@@ -115,6 +115,7 @@ A fully responsive and aesthetic personal portfolio built with Bootstrap 5, focu
 
 ## 🎓 Education
 
+- **BSC IN CSE** — Northern University Bangladesh - Present
 - **Higher Secondary Certificate (HSC)** — Feni Government College
 - **Secondary School Certificate (SSC)** — Porshuram Govt Model Pilot High School
 
