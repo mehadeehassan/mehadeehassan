@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Mehadee%20Hassan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Mehadee%20Hassan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=1000&color=0e75b6&center=true&vCenter=true&width=650&lines=const+dev+%3D+%7B+name%3A+%22Mehadee%22+%7D%3B;Building+with+React+%2B+Node.js+%2B+MongoDB;console.log(%22Shipping+scalable+apps%22);;Currently+exploring+Next.js+%E2%9A%A1" />
 
@@ -26,12 +26,13 @@
 
 ```yaml
 name: Mehadee Hassan
-role: Full Stack Software Engineer
+role: Software Engineer
 location: Dhaka, Bangladesh
 focus: Building scalable, fast, and modern web applications
 stack: [MongoDB, Express.js, React, Node.js, Next.js]
-currently_learning: [Next.js, AI-assisted development workflows]
+tools: [JWT Auth, Stripe, SSLCommerz, RBAC]
 email: mehedi19999@gmail.com
+goal: "AWS Certified Solutions Architect & Codeforces Expert"
 fun_fact: "Leveraging AI tools for smarter debugging, strong fundamentals for decisions"
 ```
 
@@ -39,7 +40,7 @@ fun_fact: "Leveraging AI tools for smarter debugging, strong fundamentals for de
 
 ## 🚀 About Me
 
-Results-driven **Full Stack Software Engineer** with expertise in the **MERN stack** (MongoDB, Express.js, React, Node.js) and modern AI-assisted development workflows. I love building scalable web applications, optimizing backend performance, and creating seamless, responsive user experiences — leveraging AI tools for smarter debugging and productivity, while relying on strong engineering fundamentals for decision-making.
+Results-driven **Software Engineer** with expertise in the **MERN stack** (MongoDB, Express.js, React, Node.js) and modern AI-assisted development workflows. I love building scalable web applications, optimizing backend performance, and creating seamless, responsive user experiences — leveraging AI tools for smarter debugging and productivity, while relying on strong engineering fundamentals for decision-making.
 
 - 🌱 Always learning new technologies
 - 💼 Focused on building fast, scalable, and modern applications with **Next.js**
@@ -54,7 +55,7 @@ Results-driven **Full Stack Software Engineer** with expertise in the **MERN sta
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
 <br/><br/>
 
 **Backend & Database**
@@ -65,9 +66,22 @@ Results-driven **Full Stack Software Engineer** with expertise in the **MERN sta
 **Tools & Workflow**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+<br/><br/>
 
+**Also working with**
+<br/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-FB015B?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/SSLCommerz-1E90FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/BetterAuth-10B981?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/RBAC-F59E0B?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBeaver-553398?style=for-the-badge&logoColor=white"/>
 </div>
-
+<br/>
 <br/>
 
 ## 📌 Featured Builds
