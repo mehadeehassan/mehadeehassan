@@ -131,13 +131,11 @@ A fully responsive and aesthetic personal portfolio built with Bootstrap 5, focu
 
 - **BSC IN CSE** — Northern University Bangladesh - Present
 - **Higher Secondary Certificate (HSC)** — Feni Government College
-- **Secondary School Certificate (SSC)** — Porshuram Govt Model Pilot High School
 
 ## 📜 Courses & Certifications
 
 - **Full Stack MERN Development** — Interactive Cares (B-06)
 - **AI Driven Full Stack Web Engineer** — Programming Hero (B-14)
-- **Modern Web Development** — Self-taught (JavaScript, React, Next.js ecosystem)
 
 <br/>
 
